@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Salma+Zahid!;CS+Student+@+FAST+NUCES;&center=true&width=600&height=45&color=FF69B4&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Salma+Zahid!;&center=true&width=600&height=45&color=FF69B4&vCenter=true&pause=1000&size=25" />
 </p>
 
 ---
