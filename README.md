@@ -48,4 +48,3 @@
 
 ---
 
-⭐ *"Tinkerer → AI Builder 🚀 Breaking things, learning, and (usually) fixing them again 😅"*
